@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Clase3-Producto-Ecommerce/static/css/main.9fa638e9.css",
+    "main.js": "/Clase3-Producto-Ecommerce/static/js/main.58001aff.js",
+    "static/js/787.1937f22b.chunk.js": "/Clase3-Producto-Ecommerce/static/js/787.1937f22b.chunk.js",
+    "static/media/6130-011--1024-1024.jpg": "/Clase3-Producto-Ecommerce/static/media/6130-011-61438084e79e2ab67716832236901889-1024-1024.d6e87cbea8af23328fb9.jpg",
+    "static/media/envio-gratis.png": "/Clase3-Producto-Ecommerce/static/media/envio-gratis.f7269a66cda1ec9fee6b.png",
+    "static/media/image_1024.png": "/Clase3-Producto-Ecommerce/static/media/image_1024.9049f5a9f1ad156961f2.png",
+    "static/media/juego-ps5-fisico-ratchet-clank-una-dimension-aparte.jpg": "/Clase3-Producto-Ecommerce/static/media/juego-ps5-fisico-ratchet-clank-una-dimension-aparte.d1dcd813a3b3d5e3d6ea.jpg",
+    "static/media/cyber.png": "/Clase3-Producto-Ecommerce/static/media/cyber.aee34bab2430f4494336.png",
+    "static/media/semana-descuento.png": "/Clase3-Producto-Ecommerce/static/media/semana-descuento.c44d820a1841c085aca8.png",
+    "static/media/sony-playstation-5-825-gb-wifi-negro-blanco.jpg": "/Clase3-Producto-Ecommerce/static/media/sony-playstation-5-825-gb-wifi-negro-blanco.9237cd53e3e7e0710251.jpg",
+    "static/media/logo-header.png": "/Clase3-Producto-Ecommerce/static/media/logo-header.73338240bc72c3b3d3bf.png",
+    "index.html": "/Clase3-Producto-Ecommerce/index.html",
+    "main.9fa638e9.css.map": "/Clase3-Producto-Ecommerce/static/css/main.9fa638e9.css.map",
+    "main.58001aff.js.map": "/Clase3-Producto-Ecommerce/static/js/main.58001aff.js.map",
+    "787.1937f22b.chunk.js.map": "/Clase3-Producto-Ecommerce/static/js/787.1937f22b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9fa638e9.css",
+    "static/js/main.58001aff.js"
+  ]
+}
