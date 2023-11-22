@@ -1,0 +1,26 @@
+.conjunto-imagenes{
+    height: 400px;
+    overflow-y: scroll;
+}
+.imagenen-secundaria{
+    width: 100px;
+    box-shadow: 1px 1px 10px .5px #CCC;
+    border-radius: 15px;
+    margin: 5px;
+    cursor: pointer;
+}
+#imagen-principal{
+    max-width: 400px;
+    min-width: 200px;
+    display: flex;
+    box-shadow: 1px 1px 10px .5px #CCC;
+    border-radius: 15px;
+    margin: 5px;
+}
+
+.imagenes-producto{
+    display:flex;
+    justify-content: center;
+    max-width: 800px;
+    min-height: 400px;
+}

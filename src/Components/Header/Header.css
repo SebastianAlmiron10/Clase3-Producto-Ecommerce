@@ -1,0 +1,35 @@
+
+.logo {
+    width: 200px;
+}
+
+.color-nav{
+    background: rgb(15,69,113);
+    background: linear-gradient(90deg, rgba(15,69,113,1) 0%, rgba(56,109,189,1) 24%, rgba(0,157,221,1) 100%);
+}
+
+.link-nav{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #fff !important;
+    transition: .2s;
+}
+.link-nav:hover{
+    color: #009ddd !important;
+    box-shadow: #fff;
+}
+
+.boton-lupa{
+    color: #0f4571 !important;
+    border-color: #0f4571 !important;
+}
+
+.boton-lupa:hover{
+    color: #fff !important;
+    background-color: #0f4571 !important;
+    border-color: #fff !important;
+
+}
+
+.navbar{
+    padding: 0 !important;
+}
