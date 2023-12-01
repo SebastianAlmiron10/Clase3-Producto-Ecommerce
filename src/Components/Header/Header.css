@@ -33,3 +33,14 @@
 .navbar{
     padding: 0 !important;
 }
+
+.img-carrito {
+    margin: 15px;
+    cursor: pointer;
+}
+.num-compras{
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    font-weight: bold;
+}

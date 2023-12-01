@@ -3,11 +3,11 @@ import ProductoInformacion from '../ProductoInformacion/ProductoInformacion';
 import './Producto.css';
 
 
-function Producto() {
+function Producto(props) {
     return(
         <div className="container">
             <ProductoImagenes/>
-            <ProductoInformacion/>
+            <ProductoInformacion incrementarCompras={props.incrementarCompras}/>
         </div>
     );
 }

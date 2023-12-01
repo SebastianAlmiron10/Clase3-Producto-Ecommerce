@@ -3,7 +3,7 @@ import './ProductoInformacion.css'
 import { FaStar } from "react-icons/fa6";
 import { FaStarHalfAlt } from "react-icons/fa";
 import ProductoComprar from '../ProductoComprar/ProductoComprar';
-function ProductoInformacion(){
+function ProductoInformacion(props){
 
     return(
         <div className='Info'>
@@ -12,7 +12,7 @@ function ProductoInformacion(){
             <h5>en 12x $181.912</h5>
             <FaStar /> <FaStar /> <FaStar /> <FaStar /> <FaStarHalfAlt />
             <Descripcion/>
-            <ProductoComprar/>
+            <ProductoComprar incrementarCompras={props.incrementarCompras}/>
         </div>
     );
 }

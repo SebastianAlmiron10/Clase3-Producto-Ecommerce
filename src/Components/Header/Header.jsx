@@ -1,5 +1,6 @@
 import './Header.css';
 import logo from './logo-header.png';
+import carrito from './carrito.png'
 import './Header.css';
 import { FaMagnifyingGlass } from 'react-icons/fa6';
 import Button from 'react-bootstrap/Button';
@@ -8,7 +9,7 @@ import Form from 'react-bootstrap/Form';
 import Nav from 'react-bootstrap/Nav';
 import Navbar from 'react-bootstrap/Navbar';
 
-function Header(){
+function Header(props){
     return(
     <header>
         <Navbar expand="lg" className="bg-body-tertiary">
@@ -36,6 +37,10 @@ function Header(){
                     <Button variant="outline-success" className='boton-lupa'><FaMagnifyingGlass/></Button>
                 </Form>
                 </Navbar.Collapse>
+                <div>
+                    <img src={carrito} alt="" width={20} className="img-carrito" />
+                    <p className="num-compras">{props.compras}</p>
+                </div>
             </Container>
         </Navbar>
     </header> 
